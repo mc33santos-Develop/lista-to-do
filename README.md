@@ -1,24 +1,25 @@
 # Projeto To-Do List Full-Stack
 
-[cite_start] Esse projeto foi pensado para realizar a Criação de um app web completo utilizando
+Esse projeto foi pensado para realizar a Criação de um app web completo utilizando
 Vue.JS + API RESTFULL + JSON + Python + MongoDB
 
 
 
-## [cite_start]Tecnologias Utilizadas [cite: 8]
+## Tecnologias Utilizadas 
 
-- [cite_start]**Frontend:** Vue.js (v3+) [cite: 10]
-- [cite_start]**Backend:** Flask (Python) 
-- [cite_start]**Banco de Dados:** MongoDB 
-- [cite_start]**Comunicação:** API RESTful com JSON [cite: 16]
+- **Frontend:** Vue.js (v3+) 
+- **Backend:** Flask (Python) 
+- **Banco de Dados:** MongoDB 
+- **Comunicação:** API RESTful com JSON 
 
 ## Funcionalidades
 
-- [x] [cite_start]Criar nova tarefa [cite: 32]
-- [x] [cite_start]Listar todas as tarefas [cite: 36]
-- [x] [cite_start]Marcar tarefas como concluídas [cite: 40]
-- [x] [cite_start]Excluir tarefas [cite: 48]
-- [x] [cite_start]Feedback visual para ações do usuário [cite: 52]
+- [x] Criar nova tarefa 
+- [x] Listar todas as tarefas 
+- [x] Marcar tarefas como concluídas 
+- [x] Excluir tarefas 
+- [x] Feedback visual para ações do usuário
+      
 
 ## Como Executar o Projeto
 
